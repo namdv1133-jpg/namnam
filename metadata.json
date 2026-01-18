@@ -1,0 +1,7 @@
+{
+  "name": "Copy of T-Lux Pro Management",
+  "description": "Hệ thống quản lý công việc nội bộ dành riêng cho T-Lux Floor, hỗ trợ theo dõi tiến độ thi công, kinh doanh và kho vận.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
